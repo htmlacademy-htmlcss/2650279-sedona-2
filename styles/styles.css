@@ -5,7 +5,7 @@
   font-family: "PT Sans";
 
   font-display: swap;
-  src: url("../fonts/ptsans-400.woff2") format("woff2");
+  src: url("./../fonts/ptsans-400.woff2") format("woff2");
 }
 
 @font-face {
@@ -14,7 +14,7 @@
   font-family: "PT Sans";
 
   font-display: swap;
-  src: url("../fonts/ptsans-700.woff2") format("woff2");
+  src: url("./../fonts/ptsans-700.woff2") format("woff2");
 }
 
 :root {
